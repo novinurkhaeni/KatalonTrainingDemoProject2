@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Semua Jenis Pengadaan</name>
+   <tag></tag>
+   <elementGuidId>a57ad211-bc9d-49ae-8f40-e4d91337baaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#jenisPengadaan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='jenisPengadaan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3791a83f-722a-4325-95ba-ec26934051e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenisPengadaan</value>
+      <webElementGuid>9db4d98f-c603-4f7e-a3d4-6bb8ab7de5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jenisPengadaan</value>
+      <webElementGuid>452bb119-8963-4ade-af7c-557fb7790612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select border-0</value>
+      <webElementGuid>5425d9a1-35e1-4eb8-ae0e-db11b6ecd194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Semua Jenis Pengadaan
+                        </value>
+      <webElementGuid>c929fa89-8070-4785-8037-de724725daaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenisPengadaan&quot;)</value>
+      <webElementGuid>c6d75352-b556-42bc-a5a1-0374808e9892</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='jenisPengadaan']</value>
+      <webElementGuid>95f1b4d6-4861-4769-a4b4-38c5c3340843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pencarian']/div/div/div/div/div[4]/select</value>
+      <webElementGuid>e925b216-1c5c-4d23-b08f-5f938bdfd6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Opsional'])[1]/following::select[1]</value>
+      <webElementGuid>efc05340-6e2a-46a3-b3b1-1ddd340ff451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya mengerti'])[1]/following::select[2]</value>
+      <webElementGuid>5bbecc60-e8e9-45e0-a08c-2cbcced0bb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Opsional'])[2]/preceding::select[1]</value>
+      <webElementGuid>6e734fae-78e9-4349-9c18-ca54b955513b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>44061a30-2e0b-4dd0-a21b-3ba7f141444c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenisPengadaan' and @id = 'jenisPengadaan' and (text() = '
+                            Semua Jenis Pengadaan
+                        ' or . = '
+                            Semua Jenis Pengadaan
+                        ')]</value>
+      <webElementGuid>da631767-d663-4a4f-bfe2-552d66aba2a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
