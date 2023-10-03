@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'),
 
 WebUI.click(findTestObject('Page_OrangeHRM/button_login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/h6_Dashboard'), 'Dashboard123')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
 
 WebUI.closeBrowser()
 
