@@ -23,7 +23,7 @@ public class MyKeyword {
 	def hello () {
 		println " Hello World... "
 	}
-	
+
 	@Keyword
 	def helloUser (String user) {
 		println " Hello "+user

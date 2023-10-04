@@ -12,13 +12,13 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>95ca134c-0ebb-4fcc-ae1f-37af967389f0</testSuiteGuid>
    <testCaseLink>
-      <guid>fe3a128d-478b-41b0-bf3c-2f71bf8d658f</guid>
+      <guid>15547f42-a31f-439f-9c68-a907bf61c4b6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/DataDrivenTestingDemo</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>1d88d77f-7fc2-42a9-b3cd-b01a8bfbd61e</id>
+         <id>76058d0f-d6d1-4ba0-bb64-797e9e862bd2</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,13 +27,13 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>1d88d77f-7fc2-42a9-b3cd-b01a8bfbd61e</testDataLinkId>
+         <testDataLinkId>76058d0f-d6d1-4ba0-bb64-797e9e862bd2</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
          <variableId>9ba75e0e-f55b-40d8-b09d-83f62c24ef09</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>1d88d77f-7fc2-42a9-b3cd-b01a8bfbd61e</testDataLinkId>
+         <testDataLinkId>76058d0f-d6d1-4ba0-bb64-797e9e862bd2</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
          <variableId>aa442a37-41e0-4fda-b0f4-b15e1e4afbad</variableId>
