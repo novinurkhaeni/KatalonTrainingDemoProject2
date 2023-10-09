@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Workstate Type_glyphicon glyphicon-user hidden-xs</name>
+   <tag></tag>
+   <elementGuidId>a89d78a9-81a5-4ea1-9203-e9349a0c5f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[9]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-user.hidden-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bf2acdb-223f-44cf-8a6e-3fdbf351cd9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-user hidden-xs</value>
+      <webElementGuid>d3323766-6dab-4aa4-bf37-afcda600b851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown dropdown-right open&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;glyphicon glyphicon-user hidden-xs&quot;]</value>
+      <webElementGuid>ce3b4c31-6a7e-4230-9ab8-3584fb390cd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[9]/a/span</value>
+      <webElementGuid>84d152ec-c83e-4eea-86f6-0fdeb7c4bdfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/span</value>
+      <webElementGuid>45dd2673-609e-4f21-b427-3071955239ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

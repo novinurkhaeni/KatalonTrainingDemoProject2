@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_Click for JS Prompt</name>
    <tag></tag>
-   <elementGuidId>38a8af4f-ac1d-4366-81ff-07fa780bb4b7</elementGuidId>
+   <elementGuidId>bd1eeb14-5179-4fc6-bef6-14f1d1c02d17</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='submit']</value>
+         <value>//button[@onclick='jsPrompt()']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#submit</value>
+         <value>li:nth-of-type(3) > button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>562fa783-e643-4c52-b4a2-69495349e500</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>ba02bd52-416b-4ddf-a308-2325be05c724</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>6a54ca3f-7e76-4684-a834-55ea828f64b0</webElementGuid>
+      <webElementGuid>35320248-e938-4640-8918-121363b3b174</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>btn btn-primary pull-right</value>
-      <webElementGuid>ef71bf88-ece5-45c7-b448-4021f245e4d7</webElementGuid>
+      <value>jsPrompt()</value>
+      <webElementGuid>edaff35e-8a2a-4860-a550-c1ac9a5b9501</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>d74a27d9-f03b-4980-8d1b-781cc10cb462</webElementGuid>
+      <value>Click for JS Prompt</value>
+      <webElementGuid>8b5056a9-d43f-43e8-91a2-66c660fd1c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;submit&quot;)</value>
-      <webElementGuid>182a99a4-373c-4cee-9910-34a02225526d</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/ul[1]/li[3]/button[1]</value>
+      <webElementGuid>b8cbb52e-1d8a-4512-b57f-4893308a39c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='submit']</value>
-      <webElementGuid>7451f5eb-0ee2-419a-ab7e-da6e74b47b33</webElementGuid>
+      <value>//button[@onclick='jsPrompt()']</value>
+      <webElementGuid>0ff62f02-1106-4e09-8461-be681f508932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/ul/li[3]/button</value>
+      <webElementGuid>d838602b-0319-4a39-a830-61cd42905c0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>6f1b8edc-b311-4fa2-9a37-08e759db36e9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Confirm'])[1]/following::button[1]</value>
+      <webElementGuid>6e064c0d-43c1-4111-bd6b-10c7c2775eb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User ID (email)'])[1]/following::button[1]</value>
-      <webElementGuid>49a8709d-7db1-447e-bc47-06a0c580eff6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Alert'])[1]/following::button[2]</value>
+      <webElementGuid>b830ae03-e5e8-4deb-9768-f5e67870b037</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::button[1]</value>
-      <webElementGuid>d924f52d-c787-4343-819a-aa20e94fdd8b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result:'])[1]/preceding::button[1]</value>
+      <webElementGuid>06eadc3c-8e8d-4639-ba77-2c1521add05c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menara Kompas'])[1]/preceding::button[1]</value>
-      <webElementGuid>e357bfe8-121d-4df5-8705-95ab1cea7632</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Click for JS Prompt']/parent::*</value>
+      <webElementGuid>e5de05b8-7b21-42fe-9df5-cfb403771ccd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>1922ba2e-1421-4b10-97ea-3a1a3caeb7f3</webElementGuid>
+      <value>//li[3]/button</value>
+      <webElementGuid>8bea5620-c54b-4c17-b30b-8e729ae15b13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>45e30c55-e41d-4e3c-98f6-58939f47c547</webElementGuid>
+      <value>//button[(text() = 'Click for JS Prompt' or . = 'Click for JS Prompt')]</value>
+      <webElementGuid>c4570c54-3b68-455a-8f84-29bb9905a59f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

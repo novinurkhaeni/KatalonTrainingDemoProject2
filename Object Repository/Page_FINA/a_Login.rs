@@ -6,12 +6,22 @@
    <elementGuidId>e48cd11d-2933-495c-8ac2-f3d3c86c8bba</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li > a.btn</value>
+         <key>XPATH</key>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li/a[@href='http://appdev.kmn.kompas.com/fina/Login']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li/a</value>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://appdev.kmn.kompas.com/fina/Login' and (text() = '
+                            
+                              Login
+                        ' or . = '
+                            
+                              Login
+                        ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > a.btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6249f3ac-af1e-431c-ae58-5611ca2544cb</webElementGuid>
+      <webElementGuid>7ad10627-c54e-4e9f-bf5c-fda4704b5ae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +40,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://appdev.kmn.kompas.com/fina/Login</value>
-      <webElementGuid>bc16ab6f-aeec-4c21-8d69-d9d0a84ac670</webElementGuid>
+      <webElementGuid>ce982b46-5233-4338-a1c6-b40b3b9789ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn</value>
-      <webElementGuid>28231044-faeb-49ae-b8e7-bff7d52c901d</webElementGuid>
+      <webElementGuid>0233f8c7-1351-42cd-96e9-f22c3e7dd90f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +59,7 @@
                             
                               Login
                         </value>
-      <webElementGuid>2dba0541-3ec8-497b-bf4a-0f4b5c2b74cb</webElementGuid>
+      <webElementGuid>a6b2e2a8-a943-42ee-9c7d-1b53cc2cf5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[1]/a[@class=&quot;btn&quot;]</value>
-      <webElementGuid>055fd7c8-8f1f-4847-b66a-d5cde108f5cc</webElementGuid>
+      <webElementGuid>ef214fa9-e7ff-453c-8b16-da76aab4b8c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +75,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bs-example-navbar-collapse-1']/ul/li/a</value>
-      <webElementGuid>05936289-30ae-4129-8b67-1f94470c0a9c</webElementGuid>
+      <webElementGuid>f99c02a8-6b32-4221-8364-aa70437771b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fina'])[1]/preceding::a[1]</value>
-      <webElementGuid>29625b78-d490-4a77-864d-1ea7b416584a</webElementGuid>
+      <webElementGuid>00ff3381-7cda-47fa-b5f6-02171cbd0800</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +91,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[@href='http://appdev.kmn.kompas.com/fina/Login'])[3]</value>
-      <webElementGuid>14de2f15-c02c-49f8-8742-51237abb472e</webElementGuid>
+      <webElementGuid>304ffc3f-a1ca-46cd-b10a-043c305b15a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +99,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>a89fa325-e94c-4fa0-9d9d-79f046089e4c</webElementGuid>
+      <webElementGuid>2d5ce604-c293-4ca8-87dc-20ff48e64e10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +113,6 @@
                             
                               Login
                         ')]</value>
-      <webElementGuid>91820567-a459-4106-b1a9-13b91bf56528</webElementGuid>
+      <webElementGuid>21e654d0-cf3b-43b0-a1fd-91db9c025067</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

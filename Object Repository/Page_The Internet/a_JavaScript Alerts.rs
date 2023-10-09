@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_JavaScript Alerts</name>
+   <tag></tag>
+   <elementGuidId>b784713f-1f71-4d2f-9d73-79ae3859102e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/ul/li[29]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(29) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d29ec86-75b8-42ce-b750-b1f99a06e7e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/javascript_alerts</value>
+      <webElementGuid>31d01ac2-ac32-43a8-915b-f3fd00bdf0ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JavaScript Alerts</value>
+      <webElementGuid>eee5a6b0-86fd-4792-83de-030461edf31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[1]/li[29]/a[1]</value>
+      <webElementGuid>8d207ada-cacc-4fc5-9932-2f410ebc1afc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul/li[29]/a</value>
+      <webElementGuid>4f398ad6-8e38-467b-a476-03d3cbabf200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'JavaScript Alerts')]</value>
+      <webElementGuid>aad0d8eb-910c-4d27-86b2-76fc0eb6d940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery UI Menus'])[1]/following::a[1]</value>
+      <webElementGuid>80064f9a-d9f4-41d9-9eb6-1a4c07cb85c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inputs'])[1]/following::a[2]</value>
+      <webElementGuid>44ee49ea-8f7d-4c04-b020-928643b90148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript onload event error'])[1]/preceding::a[1]</value>
+      <webElementGuid>0dc594a0-4acb-4119-b5fb-f082a6e4c62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key Presses'])[1]/preceding::a[2]</value>
+      <webElementGuid>6d4ff12f-ed7d-4da6-849e-5015f8bea50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JavaScript Alerts']/parent::*</value>
+      <webElementGuid>458bc75a-615b-4ebe-8e8a-01a724d52b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/javascript_alerts')]</value>
+      <webElementGuid>9ab41b7a-fcef-4768-b03a-e9d1919fd66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[29]/a</value>
+      <webElementGuid>d3877cd3-2043-4fb1-b7f7-020be0572f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/javascript_alerts' and (text() = 'JavaScript Alerts' or . = 'JavaScript Alerts')]</value>
+      <webElementGuid>cf66e13c-115e-4140-af5b-dce4073bbe05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

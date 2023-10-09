@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click for JS Confirm</name>
+   <tag></tag>
+   <elementGuidId>176167c7-e7db-4f0c-bb5b-05140635173c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='jsConfirm()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1bf82364-693e-4c84-a76c-e51de588148a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>jsConfirm()</value>
+      <webElementGuid>3b713d39-203e-40f0-b907-1e01f2e4a04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click for JS Confirm</value>
+      <webElementGuid>57c3e96a-8828-4310-8aae-09d90a80205c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/ul[1]/li[2]/button[1]</value>
+      <webElementGuid>1662e056-6f1d-4deb-94ee-4a24b2b14f9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='jsConfirm()']</value>
+      <webElementGuid>fee0dbec-869c-4a8b-ad45-3e1452280b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/ul/li[2]/button</value>
+      <webElementGuid>b149d958-0614-469e-afa4-fd49ac9c0356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Alert'])[1]/following::button[1]</value>
+      <webElementGuid>83a9e3af-446f-4869-80c4-cf9cc83632d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Alerts'])[1]/following::button[2]</value>
+      <webElementGuid>81177392-963e-4498-9020-624b77aac9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Prompt'])[1]/preceding::button[1]</value>
+      <webElementGuid>926260fe-1443-4faf-a4ea-df630a1603c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result:'])[1]/preceding::button[2]</value>
+      <webElementGuid>d115be8f-5fcb-472e-8613-b79962a30b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click for JS Confirm']/parent::*</value>
+      <webElementGuid>edb1e417-4f15-4879-ab0e-bd951fbba650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button</value>
+      <webElementGuid>5507de4e-2732-40ba-833c-f3d2dfb21f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Click for JS Confirm' or . = 'Click for JS Confirm')]</value>
+      <webElementGuid>352ca93a-d84c-4dcc-8a15-bd4549a8d900</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

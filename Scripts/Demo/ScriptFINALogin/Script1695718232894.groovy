@@ -17,19 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(null)
+WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://appdev.kmn.kompas.com/fina/')
 
-WebUI.click(findTestObject('Page_FINA/a_Login'))
+WebUI.verifyElementPresent(findTestObject('Page_FINA/a_Login'), 3)
 
-WebUI.setText(findTestObject('Page_Login  FINA/input_User ID (email)_Email'), 'administrator@kompas.com')
+WebUI.click(findTestObject('Object Repository/Page_FINA/a_Login'))
 
-WebUI.setEncryptedText(findTestObject('Page_Login  FINA/input_Password_Password'), 'cdvuquiGoW76zIMNxnw1cw==')
+WebUI.setText(findTestObject('Object Repository/Page_Login  FINA/input_User ID (email)_Email'), 'novi@kompas.com')
 
-WebUI.click(findTestObject('Page_Login  FINA/button_login'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  FINA/input_Password_Password'), 'cdvuquiGoW76zIMNxnw1cw==')
 
-//WebUI.verifyTextPresent('EXT', false)
+WebUI.click(findTestObject('Object Repository/Page_Login  FINA/button_Login'))
 
-//WebUI.closeBrowser()
+WebUI.verifyElementPresent(findTestObject('Page_FINA/span_Workstate Type_glyphicon glyphicon-user hidden-xs'), 3)
+
+WebUI.verifyElementClickable(findTestObject('Page_FINA/a_My Profile'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementNotPresent(findTestObject('Page_FINA/a_Login'), 3)
+
+WebUI.closeBrowser()
 

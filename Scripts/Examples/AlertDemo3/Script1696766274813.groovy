@@ -17,18 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(null)
+WebUI.openBrowser('')
 
-//WebUI.delay(5)
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+WebUI.navigateToUrl('https://the-internet.herokuapp.com/')
 
-WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/Page_The Internet/a_JavaScript Alerts'))
 
-WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.click(findTestObject('Object Repository/Page_The Internet/button_Click for JS Prompt'))
 
-WebUI.click(findTestObject('Page_OrangeHRM/button_login'))
+WebUI.waitForAlert(3)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/h6_Dashboard'), 'Dashboard123')
+WebUI.setAlertText('katalon')
+
+WebUI.waitForAlert(3)
+
+WebUI.acceptAlert()
+
+WebUI.delay(3)
+
+WebUI.verifyTextPresent('You entered: katalon', false)
 
 WebUI.closeBrowser()
 

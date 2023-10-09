@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>a_My Profile</name>
    <tag></tag>
-   <elementGuidId>38a8af4f-ac1d-4366-81ff-07fa780bb4b7</elementGuidId>
+   <elementGuidId>6b3c03dc-6a69-4776-8c03-7ab8d681b585</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='submit']</value>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[9]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#submit</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>562fa783-e643-4c52-b4a2-69495349e500</webElementGuid>
+      <value>a</value>
+      <webElementGuid>8273435e-5d86-4eea-ad24-8b39128edd0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>ba02bd52-416b-4ddf-a308-2325be05c724</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>6a54ca3f-7e76-4684-a834-55ea828f64b0</webElementGuid>
+      <value>#</value>
+      <webElementGuid>db0c76c8-f1be-4c24-8e8b-750e59e35517</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary pull-right</value>
-      <webElementGuid>ef71bf88-ece5-45c7-b448-4021f245e4d7</webElementGuid>
+      <value>dropdown-toggle</value>
+      <webElementGuid>53213f3a-4953-4ffa-a94d-783b28ba693a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>b0f74b25-e6c9-4654-ac50-e23643a417ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>d74a27d9-f03b-4980-8d1b-781cc10cb462</webElementGuid>
+      <value>My Profile </value>
+      <webElementGuid>e16799c4-48e5-4997-8f0f-5c0eb48a6b57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;submit&quot;)</value>
-      <webElementGuid>182a99a4-373c-4cee-9910-34a02225526d</webElementGuid>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown dropdown-right&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>95e9bea1-9b30-49c2-b7c7-75f2dc7d107b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='submit']</value>
-      <webElementGuid>7451f5eb-0ee2-419a-ab7e-da6e74b47b33</webElementGuid>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[9]/a</value>
+      <webElementGuid>2d9633f7-5607-4122-ae4c-c9cb786111a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>6f1b8edc-b311-4fa2-9a37-08e759db36e9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workstate Type'])[1]/following::a[1]</value>
+      <webElementGuid>d8e3ba98-bd33-4582-9e6d-0dbb3d06cf42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User ID (email)'])[1]/following::button[1]</value>
-      <webElementGuid>49a8709d-7db1-447e-bc47-06a0c580eff6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workstate'])[1]/following::a[2]</value>
+      <webElementGuid>2a1e8bb4-cdb3-4d18-b1bb-538da0a1f622</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::button[1]</value>
-      <webElementGuid>d924f52d-c787-4343-819a-aa20e94fdd8b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/preceding::a[1]</value>
+      <webElementGuid>60fad3f7-da8e-4cad-9431-46121f63c965</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menara Kompas'])[1]/preceding::button[1]</value>
-      <webElementGuid>e357bfe8-121d-4df5-8705-95ab1cea7632</webElementGuid>
+      <value>(//a[contains(@href, '#')])[12]</value>
+      <webElementGuid>209e807f-07dc-4817-b018-226ad3871dd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>1922ba2e-1421-4b10-97ea-3a1a3caeb7f3</webElementGuid>
+      <value>//li[9]/a</value>
+      <webElementGuid>ef73a619-b9ec-4651-b9e8-2baeef9fcc63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>45e30c55-e41d-4e3c-98f6-58939f47c547</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'My Profile ' or . = 'My Profile ')]</value>
+      <webElementGuid>59f79ebf-5a17-49ee-a0e3-35d1abb79dd9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

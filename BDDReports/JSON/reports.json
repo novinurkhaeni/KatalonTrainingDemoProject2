@@ -1,0 +1,89 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Check login is successful with valid credentials",
+        "description": "",
+        "id": "test-login-functionality;check-login-is-successful-with-valid-credentials;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8152000800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login page",
+            "match": {
+              "location": "LoginSteps.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2278996700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters Admin and admin123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 12
+                },
+                {
+                  "val": "admin123",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginSteps.user_enters_username_and_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 372305800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "clicks on login button",
+            "match": {
+              "location": "LoginSteps.clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5042561700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user is navigated to the home page",
+            "match": {
+              "location": "LoginSteps.user_is_navigated_to_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          },
+          {
+            "name": "@valid"
+          }
+        ]
+      }
+    ],
+    "name": "Test login functionality",
+    "description": "",
+    "id": "test-login-functionality",
+    "keyword": "Feature",
+    "uri": "Include/features/Login.feature",
+    "tags": []
+  }
+]
