@@ -18,12 +18,14 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-//
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
 WebUI.navigateToUrl('http://appdev.kmn.kompas.com/fina/')
 
-WebUI.click(findTestObject('Object Repository/Page_FINA/a_Login'))
-
-WebUI.click(findTestObject('Object Repository/Page_Login  FINA/input_User ID (email)_Email'))
+WebUI.click(findTestObject('Object Repository/Page_FINA/span_Workstate Type_glyphicon glyphicon-user hidden-xs'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login  FINA/input_User ID (email)_Email'), 'novi@kompas.com')
 
@@ -35,13 +37,47 @@ WebUI.click(findTestObject('Object Repository/Page_FINA/a_AP'))
 
 WebUI.click(findTestObject('Object Repository/Page_FINA/a_BS Pre Payment'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pre Payment (BS)  FINA/a_BS-23.09.0001171'))
+WebUI.click(findTestObject('Object Repository/Page_Pre Payment (BS)  FINA/button_New'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pre Payment Detail  FINA/button_Action'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New Pre Payment  FINA/select_(select)BS DLK DLNBS ProyekBS Standa_fc4fb0'), 
+    '3', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Pre Payment Detail  FINA/a_Send'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New Pre Payment  FINA/select_(select)COMP 06-12FINA PTGSS PTGSS P_43a7fb'), 
+    '17', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Pre Payment Detail  FINA/span_Ok'))
+WebUI.click(findTestObject('Object Repository/Page_New Pre Payment  FINA/span_(select)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_New Pre Payment  FINA/input_concat(id(, , select2-Requestor-resul_e6737b'), 
+    'novi')
+
+WebUI.sendKeys(findTestObject('Page_New Pre Payment  FINA/input_concat(id(, , select2-Requestor-resul_e6737b'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_New Pre Payment  FINA/div_Pay To                                 _30e52f'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New Pre Payment  FINA/select_(select)                            _94f9f5'), 
+    'E', true)
+
+WebUI.click(findTestObject('Object Repository/Page_New Pre Payment  FINA/span_(select)_1'))
+
+WebUI.setText(findTestObject('Object Repository/Page_New Pre Payment  FINA/input_concat(id(, , select2-Requestor-resul_e6737b'), 
+    'novi')
+
+WebUI.sendKeys(findTestObject('Page_New Pre Payment  FINA/input_concat(id(, , select2-Requestor-resul_e6737b'), Keys.chord(
+	Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Page_New Pre Payment  FINA/input_Amount_Obj.Amount'), '100000')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New Pre Payment  FINA/select_(select)BT - Bank TransferCash - Cas_0ef79d'), 
+    '0', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New Pre Payment  FINA/select_(select)BT - Bank TransferCash - Cas_0ef79d'), 
+    '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New Pre Payment  FINA/select_(select)CashCounterWiwikCashier Coll_8d5d48'), 
+    '6', true)
+
+WebUI.click(findTestObject('Object Repository/Page_New Pre Payment  FINA/button_Save'))
 
 WebUI.closeBrowser()
 

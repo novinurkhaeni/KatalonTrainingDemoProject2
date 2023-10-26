@@ -6,12 +6,12 @@
    <elementGuidId>d3abf01b-99a0-428f-965e-6724abf8dbc8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#CashCounter</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='CashCounter']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CashCounter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a64c00df-2041-45b8-a304-f6a23e4b297f</webElementGuid>
+      <webElementGuid>929b4215-5e34-4b00-9499-15bbe74c8f38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a4e6154d-2048-4789-93b0-c79540a44ed1</webElementGuid>
+      <webElementGuid>2ceafadc-68c0-4bd4-856d-8ab4bf572952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>CashCounter</value>
-      <webElementGuid>05bbe92f-129c-4404-a82c-34057d1bc4de</webElementGuid>
+      <webElementGuid>b96c7c5a-0291-4731-99a3-c9a02971a093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Obj.CashCounterID</value>
-      <webElementGuid>dab65493-fe43-4163-85f0-beb2fe9105b2</webElementGuid>
+      <webElementGuid>c3e8410d-5a0e-47e3-8c42-3e7d6a4efd36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -99,7 +99,7 @@ Tribun Tangerang
 Vinsen Kasir
 zahra counter
 </value>
-      <webElementGuid>45ec615f-c9a5-462a-9489-6d6216ca80ba</webElementGuid>
+      <webElementGuid>3616c4fb-e071-4674-a8c7-9a9c7af3d9dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ zahra counter
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CashCounter&quot;)</value>
-      <webElementGuid>31d80a40-1398-4359-96fd-062c4ae9f3ae</webElementGuid>
+      <webElementGuid>19bbb374-9dfe-4975-b01e-e26c22c18cd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -115,7 +115,7 @@ zahra counter
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='CashCounter']</value>
-      <webElementGuid>8d42421f-008c-4b84-b66d-bcb96bc16c56</webElementGuid>
+      <webElementGuid>2b29b55d-c390-46bd-a6da-c4ceb018ec4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@ zahra counter
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Counter'])[3]/following::select[1]</value>
-      <webElementGuid>98a91c4f-b5b9-4483-8a60-db88896867d8</webElementGuid>
+      <webElementGuid>9410d886-e0fe-456f-ae7b-fe5b49a21093</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@ zahra counter
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Account'])[2]/following::select[2]</value>
-      <webElementGuid>3c7ee5fa-8431-4320-8ef1-87f88afcdd85</webElementGuid>
+      <webElementGuid>7e025b47-a760-4570-90f8-16a64d09a9e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@ zahra counter
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Description'])[1]/preceding::select[1]</value>
-      <webElementGuid>3ddc4dd2-f6b1-4e87-89bf-9cd610806ff2</webElementGuid>
+      <webElementGuid>d0b3ff53-bb1a-4e9c-b377-21b61e8c44ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@ zahra counter
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date'])[1]/preceding::select[1]</value>
-      <webElementGuid>82e38fcf-e426-4a4d-8a31-f124cceed035</webElementGuid>
+      <webElementGuid>8758d7f3-88cb-4719-a311-c96f0f697272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@ zahra counter
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/select</value>
-      <webElementGuid>6215d6e0-74e5-466a-829e-8073f934b0ed</webElementGuid>
+      <webElementGuid>36ef5acf-0383-458b-b114-3d1f111bbdf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -253,6 +253,6 @@ Tribun Tangerang
 Vinsen Kasir
 zahra counter
 ')]</value>
-      <webElementGuid>63b83bc5-1dad-4ac2-9282-11c65a7478e2</webElementGuid>
+      <webElementGuid>d31f4a31-e90a-4698-a5fa-5cd04d992a01</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

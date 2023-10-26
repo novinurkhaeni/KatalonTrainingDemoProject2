@@ -6,12 +6,12 @@
    <elementGuidId>6d044aba-f5e3-4cc2-a1eb-70e252a8d735</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4b5454aa-7ff2-4934-a247-f92a5982ef01</webElementGuid>
+      <webElementGuid>5fd7545c-8987-4edd-b481-d695ca584050</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>350be373-1705-406b-ab28-cb26c6d8ad72</webElementGuid>
+      <webElementGuid>26fd8222-6001-4996-bf7f-b5248380a181</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-toggle</value>
-      <webElementGuid>aca48aed-10d2-4979-a7d4-4c3a8d88cb22</webElementGuid>
+      <webElementGuid>7975ac77-5a3f-48ba-a034-0893c6774a73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>516fd0de-18a2-4ff0-8788-34cf68633e4b</webElementGuid>
+      <webElementGuid>2f7d8a6b-f358-407b-ad90-ff84ea147247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>A/P</value>
-      <webElementGuid>12e17284-50e3-4008-9044-b05c4e2eba95</webElementGuid>
+      <webElementGuid>f2d94e67-b52f-40d7-ac01-e1c0105b6e50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
-      <webElementGuid>3ed2fd9d-0e38-44ea-920d-d6ff0bc9804c</webElementGuid>
+      <webElementGuid>80d58bdd-7ee1-4c2d-8c45-85dd84c65197</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[4]/a</value>
-      <webElementGuid>203a1cd7-99ee-4d83-82eb-ce64d258cd0c</webElementGuid>
+      <webElementGuid>4ae5b806-0249-4776-8029-6eaed822d2f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'A/P')]</value>
-      <webElementGuid>c05e693f-4a48-4d57-a833-efb0565fb7a0</webElementGuid>
+      <webElementGuid>982edee2-23f4-4e39-853a-811b5875a72e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt Posting'])[1]/following::a[1]</value>
-      <webElementGuid>1459a038-70dd-44e8-aaaf-eb5b4ccdffb2</webElementGuid>
+      <webElementGuid>1119eb09-b1de-4e69-887b-189438f98ab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RPT A/R Aging'])[1]/following::a[2]</value>
-      <webElementGuid>d5f6e5cd-a60d-40e9-a940-9d6e16250f58</webElementGuid>
+      <webElementGuid>117b3636-7241-4674-b44d-e89de1997ccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A/P Balance'])[1]/preceding::a[1]</value>
-      <webElementGuid>5d4407d6-71bf-444e-8895-7519f0d0cb46</webElementGuid>
+      <webElementGuid>29d8228b-6988-414f-9f2a-c562b8a2c83c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A/P Invoice'])[1]/preceding::a[2]</value>
-      <webElementGuid>220ee599-f55a-4884-90a2-363b46cddc23</webElementGuid>
+      <webElementGuid>29238a37-c2f6-46ce-a9cd-ffdb369b4273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='A/P']/parent::*</value>
-      <webElementGuid>8ee6eb2d-5a1a-4c60-9936-c90431a68656</webElementGuid>
+      <webElementGuid>e281d1c3-6392-48aa-8610-4bf2a73d4daf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[5]</value>
-      <webElementGuid>9f73c1bd-4f0d-433d-b451-ba4d7ef8c72a</webElementGuid>
+      <webElementGuid>5255a22b-79a0-45ba-ad3e-f532c0bbcb5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>bf42450d-3cc8-4f09-afb1-18ddaa77bf2c</webElementGuid>
+      <webElementGuid>fd62941f-6f94-4e01-ba06-05efee99f0dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'A/P' or . = 'A/P')]</value>
-      <webElementGuid>7729a38f-fe48-4691-bb91-aa3f43feb729</webElementGuid>
+      <webElementGuid>a96e712a-796a-47a6-a6ca-b079911f9b4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

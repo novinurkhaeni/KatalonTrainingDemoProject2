@@ -6,12 +6,12 @@
    <elementGuidId>fd2e3c4f-3a14-4d9f-8c63-48ab4b17174e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[4]/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5869206d-61bb-4b7f-b4fb-aecce611747d</webElementGuid>
+      <webElementGuid>c8166f53-e1c8-4942-867f-8f02e9f35184</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dan-menu-item </value>
-      <webElementGuid>e20f9a85-7c93-48ee-ad85-a132d8660dca</webElementGuid>
+      <webElementGuid>9ad50936-f920-4806-bace-48e5aba3fdb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://appdev.kmn.kompas.com/fina/PrePayment</value>
-      <webElementGuid>43ead17d-de22-499e-b1d3-fa13db1c2a55</webElementGuid>
+      <webElementGuid>352471a3-59b5-4dce-a8eb-0bfd71d3d0b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BS/ Pre Payment</value>
-      <webElementGuid>a5596861-d496-4f91-a4a9-acc43ce610cf</webElementGuid>
+      <webElementGuid>4aab1667-5912-4017-84b4-6ef54eae9bad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;&quot;]/a[@class=&quot;dan-menu-item&quot;]</value>
-      <webElementGuid>3ad073a4-b90d-435e-b05c-e78f05df259c</webElementGuid>
+      <webElementGuid>19b7f029-ca1d-4bed-8f0c-4ce9544cdb3b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[4]/ul/li[9]/a</value>
-      <webElementGuid>38878df9-f96e-4ae1-bc76-6829819f06ab</webElementGuid>
+      <webElementGuid>03edebcf-9ffc-440c-8366-c8034ab5e817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'BS/ Pre Payment')]</value>
-      <webElementGuid>250f06ba-870c-466c-a64b-e4b45670121d</webElementGuid>
+      <webElementGuid>c7d383a6-1136-4229-92a5-886241e414b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-----'])[7]/following::a[1]</value>
-      <webElementGuid>c4f48c90-de76-46ab-9d22-bf8ed47902d6</webElementGuid>
+      <webElementGuid>9d64a526-06fb-4d58-9604-ab3a0d691033</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiving'])[1]/following::a[1]</value>
-      <webElementGuid>0797b2f7-7eb0-4763-b3b3-f8e58dc77b49</webElementGuid>
+      <webElementGuid>221e4a0b-9804-480a-ae38-60d9fac6ccaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BS/ Pre Payment Realization'])[1]/preceding::a[1]</value>
-      <webElementGuid>c0b1f6cb-d6e3-42b4-88c3-eefc6fcb28de</webElementGuid>
+      <webElementGuid>c787a381-a14e-487c-8807-7d0b2b21ee43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BS/ Pre Payment Balance'])[1]/preceding::a[2]</value>
-      <webElementGuid>15a120ba-62c1-47fb-86dc-1f95f98194a6</webElementGuid>
+      <webElementGuid>c064c5f6-2098-4850-80ab-a4ca3c3324cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BS/ Pre Payment']/parent::*</value>
-      <webElementGuid>231251c6-300c-4cb5-aa0d-a98e10c0d255</webElementGuid>
+      <webElementGuid>0abc675d-eb2f-417e-b880-802224a962e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[@href='http://appdev.kmn.kompas.com/fina/PrePayment']</value>
-      <webElementGuid>8b8ef7eb-f73e-49d8-82cd-81d848ef9cf0</webElementGuid>
+      <webElementGuid>a280206d-27d8-4558-b84e-08d00f221be4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[9]/a</value>
-      <webElementGuid>f2567537-3250-4e2c-ba00-16fe694b9974</webElementGuid>
+      <webElementGuid>e60ff843-19ae-4847-9565-cc0cb2691ce3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://appdev.kmn.kompas.com/fina/PrePayment' and (text() = 'BS/ Pre Payment' or . = 'BS/ Pre Payment')]</value>
-      <webElementGuid>6e152eb1-46fc-4413-9c04-db27f3cf2894</webElementGuid>
+      <webElementGuid>d5368a79-f142-4f21-85ea-f3734325cb9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

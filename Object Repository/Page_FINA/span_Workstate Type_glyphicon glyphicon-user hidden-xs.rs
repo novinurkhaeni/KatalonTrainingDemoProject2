@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[9]/a/span</value>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.glyphicon.glyphicon-user.hidden-xs</value>
+         <value>li > a.btn > span.glyphicon.glyphicon-log-in</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,24 +22,40 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7bf2acdb-223f-44cf-8a6e-3fdbf351cd9f</webElementGuid>
+      <webElementGuid>c67ecc80-d9e0-468d-a197-40224db6291d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>glyphicon glyphicon-user hidden-xs</value>
-      <webElementGuid>d3323766-6dab-4aa4-bf37-afcda600b851</webElementGuid>
+      <value>glyphicon glyphicon-log-in</value>
+      <webElementGuid>2ea673fd-316c-416d-93dc-1dc5ddee8b7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown dropdown-right open&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;glyphicon glyphicon-user hidden-xs&quot;]</value>
-      <webElementGuid>ce3b4c31-6a7e-4230-9ab8-3584fb390cd2</webElementGuid>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[1]/a[@class=&quot;btn&quot;]/span[@class=&quot;glyphicon glyphicon-log-in&quot;]</value>
+      <webElementGuid>23fb22e0-d98c-4f0e-9ae9-e6e04a0a41ac</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li/a/span</value>
+      <webElementGuid>23873c10-1569-4504-a634-af2f6988067c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span</value>
+      <webElementGuid>3953301d-440b-43bd-979b-baf1044be370</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>

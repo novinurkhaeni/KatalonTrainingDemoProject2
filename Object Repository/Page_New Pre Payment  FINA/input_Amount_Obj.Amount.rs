@@ -6,12 +6,12 @@
    <elementGuidId>160981dc-33ef-4e51-b5d7-e825e74b4685</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#Amount</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='Amount']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Amount</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3c93b886-37c5-479d-975d-2fbb85eba74d</webElementGuid>
+      <webElementGuid>5d6ab098-210c-4d12-8b07-f80a524c86a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-right</value>
-      <webElementGuid>79038a70-0499-4c75-8d85-31b7eb42be66</webElementGuid>
+      <webElementGuid>0b7d08fc-eda9-46ba-8abf-ad9c0819b2f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Amount</value>
-      <webElementGuid>01255023-4e30-4fbd-8b62-119d1d8403e7</webElementGuid>
+      <webElementGuid>df98c96c-ee52-4a28-8970-875a6bb6917e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3541ee6c-59fd-412f-b03f-7387f68d4276</webElementGuid>
+      <webElementGuid>72cda8a9-3e97-4fa3-8076-6ac856584eb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Obj.Amount</value>
-      <webElementGuid>d191ae6b-b690-4136-9766-3653e961ef9d</webElementGuid>
+      <webElementGuid>7ebd39af-7645-4a9f-abc3-53221e5b0877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>step</name>
       <type>Main</type>
       <value>0.01</value>
-      <webElementGuid>ba56d9c4-bd58-46a5-9c1e-4e821037528c</webElementGuid>
+      <webElementGuid>74b41de9-1b10-4f0c-8f5f-dad79d35d327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>91e16d46-e096-4c30-b975-93b7753599db</webElementGuid>
+      <webElementGuid>ea82bd92-9d72-4742-a2b2-adc1ef439070</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Amount&quot;)</value>
-      <webElementGuid>df77103d-84d0-4751-a812-a4c513d5b81b</webElementGuid>
+      <webElementGuid>b4de5beb-f68e-4ad0-a5e1-62ff46682f9b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Amount']</value>
-      <webElementGuid>0fd1868d-976c-46e8-a033-35319236e52d</webElementGuid>
+      <webElementGuid>c17287c6-d77f-4947-acd2-147a6579dea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/input</value>
-      <webElementGuid>29833162-e888-4594-9be4-9aedca254d3d</webElementGuid>
+      <webElementGuid>e1c24074-33f4-4a96-8f03-eb57a6f4dc9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Amount' and @name = 'Obj.Amount' and @type = 'number']</value>
-      <webElementGuid>78c9bf35-6458-44bf-a996-58185ddc8135</webElementGuid>
+      <webElementGuid>6886628c-2ae7-45eb-89ac-190a1e1fa5b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

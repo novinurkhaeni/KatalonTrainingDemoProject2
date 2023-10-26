@@ -6,12 +6,12 @@
    <elementGuidId>3a14bca7-061d-4c69-97c8-a3b0f927087e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#PrePaymentType</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='PrePaymentType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PrePaymentType</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>0908563b-0c91-451a-8d16-40fa685aca4d</webElementGuid>
+      <webElementGuid>3ea8f39e-c937-46af-a22c-ec46f642fe3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b5e379dc-0a47-46e1-9c6b-181d80579d0e</webElementGuid>
+      <webElementGuid>fb7a657f-1c76-4820-b417-5b1fd3102795</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>PrePaymentType</value>
-      <webElementGuid>9748f9c4-fd36-40cd-b47d-b176ff4b0da8</webElementGuid>
+      <webElementGuid>bff2f178-9137-4580-8669-1a08a2bafe00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Obj.PrepaymentTypeID</value>
-      <webElementGuid>0f3892aa-3dd7-4bfc-990b-0f52fdb77cdf</webElementGuid>
+      <webElementGuid>c97abeb0-78dd-4bd8-a212-4ebc81d54d7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@ BS Proyek
 BS Standar
 Sisa BS
 </value>
-      <webElementGuid>9d193f6f-c27e-4c74-ae58-7fdc86e56b5e</webElementGuid>
+      <webElementGuid>13ca7e38-0b3c-4797-a50d-ddef797ace4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@ Sisa BS
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PrePaymentType&quot;)</value>
-      <webElementGuid>b0940583-12e6-4172-9d86-24247c9017b1</webElementGuid>
+      <webElementGuid>f2a8cbf9-1635-4c46-a5a7-4c1149a7b9fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@ Sisa BS
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='PrePaymentType']</value>
-      <webElementGuid>d3e26c0f-f747-46ab-a4f7-7a8d339061b6</webElementGuid>
+      <webElementGuid>ac208c83-55a8-4ae1-9255-3932b63d7896</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@ Sisa BS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::select[1]</value>
-      <webElementGuid>268a292c-bec7-48ab-b823-87495ae9b1a6</webElementGuid>
+      <webElementGuid>81a34982-878d-487b-8d31-f18e0f60e5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@ Sisa BS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Info'])[1]/following::select[1]</value>
-      <webElementGuid>bf00f6e4-10c0-42ad-900a-f5a41d7ec373</webElementGuid>
+      <webElementGuid>7128082a-13c8-4eb6-99ed-c5ce38da3db4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@ Sisa BS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/preceding::select[1]</value>
-      <webElementGuid>bd2e6842-09ef-44af-8641-fd8a0f268df7</webElementGuid>
+      <webElementGuid>5de0054f-f75a-4c09-b29a-5b7323192fe8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ Sisa BS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[2]/preceding::select[1]</value>
-      <webElementGuid>bed15464-eb7e-4ed0-904f-840cc1e9e084</webElementGuid>
+      <webElementGuid>72ec2552-f556-439b-a3a9-21d5222aa775</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@ Sisa BS
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>6cece7e6-36a5-4384-baa6-a8eeb83aefd3</webElementGuid>
+      <webElementGuid>7a61b853-d9bc-4b84-a676-e828de5f6b32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@ BS Proyek
 BS Standar
 Sisa BS
 ')]</value>
-      <webElementGuid>86368b2e-8853-4ca3-beb1-527dc5aa281d</webElementGuid>
+      <webElementGuid>41644eb2-1e0f-4696-bdcf-b87ee255fc4c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

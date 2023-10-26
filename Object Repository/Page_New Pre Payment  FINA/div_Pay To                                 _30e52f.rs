@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_(select)                            _94f9f5</name>
+   <name>div_Pay To                                 _30e52f</name>
    <tag></tag>
-   <elementGuidId>7ee7e65c-04ad-490f-86d9-23230056439d</elementGuidId>
+   <elementGuidId>445418be-63b0-4470-bb45-1bc659de2641</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='PaidToPartyType']</value>
+         <key>CSS</key>
+         <value>div.col-xs-5 > div.form-group</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#PaidToPartyType</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment'])[1]/following::div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,32 +21,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>343c5135-4c17-4320-9853-3a3ea61d75f2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>PaidToPartyType</value>
-      <webElementGuid>f0793f71-f929-4943-b633-6767283911e9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>PaidToPartyType</value>
-      <webElementGuid>980d098d-dc3e-4b53-83d7-d5725e9990b6</webElementGuid>
+      <value>div</value>
+      <webElementGuid>683ffdaa-f5e4-4132-8dba-67d825f6a280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>82856d81-f95a-4868-9830-1bc2202ba26b</webElementGuid>
+      <value>form-group</value>
+      <webElementGuid>6452b2b7-a4de-4724-93ab-621e2ecedc72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,80 +38,81 @@
       <name>text</name>
       <type>Main</type>
       <value>
+                                    Pay To
+                                    
                                         (select)
                                         Customer
                                         Employee
                                         Organization
                                         Supplier
-                                    </value>
-      <webElementGuid>64cdf7fb-4385-48b2-85e1-f6cb9652ccb4</webElementGuid>
+                                    
+                                </value>
+      <webElementGuid>805c2bfc-6101-4678-a1ff-fe55c4a7f275</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;PaidToPartyType&quot;)</value>
-      <webElementGuid>e27e769a-b21d-4dc0-850d-84dcf5380e5e</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-5&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>8dec7210-f6db-4381-b6e4-07ed2299cc14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//select[@id='PaidToPartyType']</value>
-      <webElementGuid>195d3ff0-13aa-4e9a-8ca6-ca4f6354d36f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment'])[1]/following::div[3]</value>
+      <webElementGuid>2b86f170-ddb0-4a4f-889e-df5c29c39a41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay To'])[1]/following::select[1]</value>
-      <webElementGuid>39d71555-65cc-4734-9af7-909c888a30dc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[4]</value>
+      <webElementGuid>8edb2ebf-4d23-41e5-83c1-6115fdcb3cb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment'])[1]/following::select[1]</value>
-      <webElementGuid>19516a97-5383-4e7c-8ddb-2560bf201233</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::select[1]</value>
-      <webElementGuid>7f900030-55a6-44e1-a9bc-b80b0c46ff4b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::div[1]</value>
+      <webElementGuid>802aeb34-d38d-49ca-8d9e-16677be49d10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/select</value>
-      <webElementGuid>0ae7e3c2-3e85-4050-898a-8577068682aa</webElementGuid>
+      <value>//div[3]/div[2]/div/div/div</value>
+      <webElementGuid>91c95e32-32e5-4c8d-81fa-d3db09222e2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'PaidToPartyType' and @id = 'PaidToPartyType' and (text() = '
+      <value>//div[(text() = '
+                                    Pay To
+                                    
                                         (select)
                                         Customer
                                         Employee
                                         Organization
                                         Supplier
-                                    ' or . = '
+                                    
+                                ' or . = '
+                                    Pay To
+                                    
                                         (select)
                                         Customer
                                         Employee
                                         Organization
                                         Supplier
-                                    ')]</value>
-      <webElementGuid>b1d60c3d-4d4e-4316-8c69-955593d2a8ca</webElementGuid>
+                                    
+                                ')]</value>
+      <webElementGuid>f7d87ebf-fd5a-4bc6-800e-b0a9c4ca812d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

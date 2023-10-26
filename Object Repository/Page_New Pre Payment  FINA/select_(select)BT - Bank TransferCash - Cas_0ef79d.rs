@@ -6,12 +6,12 @@
    <elementGuidId>bc899803-2200-4974-b4e6-7a81b0f2366d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#PaymentType</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='PaymentType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PaymentType</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6afcbdc8-aa19-4a1c-a734-fa6c15ed6fbf</webElementGuid>
+      <webElementGuid>73bdce7a-7fd5-461e-b2f3-58ae49d1aaa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>09e384c3-82ad-4927-9102-9ae208721bdc</webElementGuid>
+      <webElementGuid>a9a4192e-4409-4e91-ac40-adf9f8d9bf94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>PaymentType</value>
-      <webElementGuid>1b895d86-e253-4127-aae8-f024420c9442</webElementGuid>
+      <webElementGuid>3aea6c9c-a66e-410c-a50c-baca9e7eea87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Obj.PaymentTypeID</value>
-      <webElementGuid>2796ae95-f044-4b7a-bdaa-37ea6b81e5f6</webElementGuid>
+      <webElementGuid>f9965d1f-a301-4454-b489-a13f0f5316b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@ CBRI - CashBRI
 CQ - Cheque
 BG - Giro
 </value>
-      <webElementGuid>95a27e49-c67c-4aa1-abbb-ebf3d039b0e7</webElementGuid>
+      <webElementGuid>5304d8b2-1d12-4e97-882d-a37a303bcf20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@ BG - Giro
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PaymentType&quot;)</value>
-      <webElementGuid>bc2024c3-164b-41a1-a61c-7d1e2e2a123e</webElementGuid>
+      <webElementGuid>b7b244c2-8aac-497c-b2bf-c18f1c04fba1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@ BG - Giro
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='PaymentType']</value>
-      <webElementGuid>41748d5e-f6f9-42f8-9b1a-de331c7254d1</webElementGuid>
+      <webElementGuid>c63c07d1-c0b4-43d8-af3c-b56108d66b32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@ BG - Giro
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/following::select[1]</value>
-      <webElementGuid>9c6c215c-dcca-4254-9d23-e2fcd7ea7665</webElementGuid>
+      <webElementGuid>3ba17d17-83a9-4c47-a40b-dc83e36bcbd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@ BG - Giro
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::select[1]</value>
-      <webElementGuid>be796fd9-af62-472a-8f9a-cbf9aacd4ae6</webElementGuid>
+      <webElementGuid>dc167769-2b9d-4956-be89-751c25f7cfb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@ BG - Giro
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Account'])[2]/preceding::select[1]</value>
-      <webElementGuid>ded9eae3-939b-42d7-bbcb-df866c39cf15</webElementGuid>
+      <webElementGuid>8eefcb2b-337b-48be-9773-683594cbd92f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@ BG - Giro
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Counter'])[3]/preceding::select[2]</value>
-      <webElementGuid>e0f0e5d3-1ffd-4085-a6c8-a3c7d161a85f</webElementGuid>
+      <webElementGuid>6e77ab6d-43d0-433d-b90f-ca4e15d35440</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@ BG - Giro
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/select</value>
-      <webElementGuid>5362e6d7-b201-4ed1-b4b9-3aec1add80cd</webElementGuid>
+      <webElementGuid>b3292d62-e85e-42da-ba99-cea270faaeb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,6 +136,6 @@ CBRI - CashBRI
 CQ - Cheque
 BG - Giro
 ')]</value>
-      <webElementGuid>fa0dc066-feae-43bf-a397-5b62b6f6d6d8</webElementGuid>
+      <webElementGuid>bc4771be-684d-47f5-8e52-08fb416718ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

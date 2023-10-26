@@ -6,12 +6,12 @@
    <elementGuidId>62d19e12-334f-4956-a0f9-30a1c2bbc481</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#Company</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='Company']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Company</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>bf3d4562-ac31-4a7e-851b-daa54b45c255</webElementGuid>
+      <webElementGuid>07f659b0-604c-4be6-9737-23545c69d635</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>5de7f753-1b17-4bb1-8963-ee5c3f3cc142</webElementGuid>
+      <webElementGuid>9aba1c24-ea5c-4052-ab3c-858dd5f59e2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Company</value>
-      <webElementGuid>e065774f-4112-4847-8700-39a349087ff6</webElementGuid>
+      <webElementGuid>362789c0-a3e8-43c6-97ac-171174107bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Obj.CompanyID</value>
-      <webElementGuid>c9adb468-b2ac-49a8-a71d-fb7c2b4f804f</webElementGuid>
+      <webElementGuid>60e2db2a-bf9b-4062-8ed5-ca19005d4e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@ Tribun Tangerang
 Visi Cipta Bentara Loka
 Warta Kota
 </value>
-      <webElementGuid>105e3c6b-de00-4ed6-80d5-7acb2a0cdeb4</webElementGuid>
+      <webElementGuid>2f31f017-34b9-4548-8a56-bf4b0c49f47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@ Warta Kota
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Company&quot;)</value>
-      <webElementGuid>8fc2cb6b-346d-44bb-a573-91e2c14c9613</webElementGuid>
+      <webElementGuid>e49042fb-ed4d-45b8-af5a-fdd3bac2c108</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@ Warta Kota
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='Company']</value>
-      <webElementGuid>b64561f7-0a86-484b-a0cd-10ac96c15d21</webElementGuid>
+      <webElementGuid>99599bee-3d85-409a-afed-f164c6cebe15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@ Warta Kota
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::select[1]</value>
-      <webElementGuid>b3c686d2-14df-4e65-8398-6942bec789ba</webElementGuid>
+      <webElementGuid>a33eabc1-ecca-4e0c-a29a-d8e709a0ed22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@ Warta Kota
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[2]/following::select[2]</value>
-      <webElementGuid>bb0fc799-99fb-44fb-829c-8bf7fc7ef996</webElementGuid>
+      <webElementGuid>a55702a6-e042-46fd-83a1-41231fc76b4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@ Warta Kota
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
-      <webElementGuid>f7ae0f9a-ada1-4609-a130-fcda9f111980</webElementGuid>
+      <webElementGuid>58228017-3919-4e64-a41a-a78eca223594</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@ Warta Kota
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Requestor'])[1]/preceding::select[1]</value>
-      <webElementGuid>35cfe77e-4a60-4e94-aa92-185ce8defd2b</webElementGuid>
+      <webElementGuid>69346d84-9413-49c9-bb2d-07709baf274c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@ Warta Kota
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/select</value>
-      <webElementGuid>618d99db-8b22-436e-b63f-58184a6fb627</webElementGuid>
+      <webElementGuid>1295f594-7040-4758-b349-98abd34b20ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -217,6 +217,6 @@ Tribun Tangerang
 Visi Cipta Bentara Loka
 Warta Kota
 ')]</value>
-      <webElementGuid>8c992360-10c9-4fae-b18f-052ae7eceb69</webElementGuid>
+      <webElementGuid>e7274f95-45b1-46d9-822c-fefbeec64213</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -47,63 +47,63 @@ class FINALoginSteps {
 	@Given("I am on the homepage")
 	public void i_am_on_the_homepage() {
 		WebUI.openBrowser('')
-		
+
 		WebUI.navigateToUrl('http://appdev.kmn.kompas.com/fina/')
-	    println "I am inside homepage"
+		println "I am inside homepage"
 	}
-	
+
 	@Given("I should see login link")
 	public void i_should_see_login_link() {
 		WebUI.verifyElementPresent(findTestObject('Page_FINA/a_Login'), 3)
-	    println "I see login link"
+		println "I see login link"
 	}
-	
+
 	@When("I follow login link")
 	public void i_follow_login_link() {
 		WebUI.click(findTestObject('Object Repository/Page_FINA/a_Login'))
-	    println "I click login link"
+		println "I click login link"
 	}
-	
+
 	@When("I fill email address with (.*)")
 	public void i_fill_email_address_with_true_email(String email) {
 		WebUI.setText(findTestObject('Object Repository/Page_Login  FINA/input_User ID (email)_Email'), email)
-	    println "I fill email address"
+		println "I fill email address"
 	}
-	
+
 	@When("I fill password with (.*)")
 	public void i_fill_password_with_kompas(String password) {
 		WebUI.setText(findTestObject('Object Repository/Page_Login  FINA/input_Password_Password'), password)
-	    println "I fill password"
+		println "I fill password"
 	}
-	
+
 	@When("I click login button")
 	public void i_click_login_button() {
 		WebUI.click(findTestObject('Object Repository/Page_Login  FINA/button_Login'))
-	    println "I click login button"
+		println "I click login button"
 	}
-	
+
 	@Then("I should see profile menu")
 	public void i_should_see_profile_menu() {
 		WebUI.verifyElementPresent(findTestObject('Page_FINA/span_Workstate Type_glyphicon glyphicon-user hidden-xs'), 3)
-	    println "I see profile menu"
+		println "I see profile menu"
 	}
-	
+
 	@Then("I should see profile link")
 	public void i_should_see_profile_link() {
 		WebUI.verifyElementClickable(findTestObject('Page_FINA/a_My Profile'), FailureHandling.STOP_ON_FAILURE)
-	    println "I click profile"
+		println "I click profile"
 	}
-	
+
 	@Then("I should not see login link")
 	public void i_should_not_see_login_link() {
 		WebUI.verifyElementNotPresent(findTestObject('Page_FINA/a_Login'), 3)
 		WebUI.closeBrowser()
-	    println "I can't see login link"
+		println "I can't see login link"
 	}
-	
+
 	@When("I fill email address with wrong email (.*)")
 	public void i_fill_email_address_with_wrong_email(String email) {
 		WebUI.setText(findTestObject('Object Repository/Page_Login  FINA/input_User ID (email)_Email'), email)
-	    println "I fill wrong email/password"
+		println "I fill wrong email/password"
 	}
 }
